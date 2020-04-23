@@ -1,1 +1,1 @@
-GET https://soqksltop5.execute-api.us-east-1.amazonaws.com/dev/v1/users/create
+GET https://soqksltop5.execute-api.us-east-1.amazonaws.com/dev/v1/hello
